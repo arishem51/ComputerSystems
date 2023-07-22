@@ -1,0 +1,1 @@
+Chapter 5: Optimizing Program Performance.This chapter introduces a number of techniques for improving code performance, with the idea being that programmers learn to write their C code in such a way that a compiler can then generate efficient machine code.
